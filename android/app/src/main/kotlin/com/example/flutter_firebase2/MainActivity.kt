@@ -1,4 +1,4 @@
-package com.example.flutter_firebase2
+package camt.flutter.firebase.prin
 
 import io.flutter.embedding.android.FlutterActivity
 
